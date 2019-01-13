@@ -1,3 +1,7 @@
-import '../styles/index.scss';
+import "../styles/index.scss";
 
-console.log('webpack starterkit');
+const test = [1, 2, 3];
+
+const filtered = [...test].filter(item => item <= 2);
+
+console.log(filtered);

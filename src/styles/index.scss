@@ -2,4 +2,20 @@ $body-color: blue;
 
 body {
   color: $body-color;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+main {
+  max-width: 980px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+figure {
+  margin: 20px 0;
+}
+
+figcaption {
+  font-size: 12px;
+  padding: 10px;
 }
