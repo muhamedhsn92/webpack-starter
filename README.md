@@ -2,6 +2,8 @@
 
 A lightweight foundation for your next webpack based frontend project.
 
+Cloned from https://github.com/wbkd/webpack-starter for quick tests
+
 
 ### Installation
 
